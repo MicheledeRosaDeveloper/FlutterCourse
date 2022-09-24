@@ -20,4 +20,9 @@
   * Programmazione oggetti
   * Ereditarieta' multipla (Mixin)
   #### Esercizi Dart
-      
+
+## Lezione 2
+  ### Widget
+  Leggi documentazione di Flutter -> (https://docs.flutter.dev/development/ui/widgets-intro)
+  #### Esercizi Dart
+
