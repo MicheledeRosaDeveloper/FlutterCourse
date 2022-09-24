@@ -23,6 +23,6 @@
 
 ## Lezione 2
   ### Widget
-  Leggi documentazione di Flutter -> (https://docs.flutter.dev/development/ui/widgets-intro)
+  Leggi documentazione di Flutter -> [Introduzione Widget](https://docs.flutter.dev/development/ui/widgets-intro)
   #### Esercizi Dart
 
