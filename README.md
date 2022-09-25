@@ -29,7 +29,7 @@
 
   | Mock Up  | To do |
   | ------------- | ------------- |
-  | <img src="blob/Esempio_lezione3.png" width="200" > |     <ul><li>Una AppBar con un’iconda utente (non funzionante)<li>Corpo della pagina con l’elenco delle sedi<li>Inserire il logo di SI nel logo<li>Al click sul pulsante di un elemento mostreremo il nome della sede selezionata in un contenitore posizionato in cima alla lista</ul> |
+  | <img src="blob/Esempio_lezione2.png" width="200" > |     <ul><li>Una AppBar con un’iconda utente (non funzionante)<li>Corpo della pagina con l’elenco delle sedi<li>Inserire il logo di SI nel logo<li>Al click sul pulsante di un elemento mostreremo il nome della sede selezionata in un contenitore posizionato in cima alla lista</ul> |
 
   #### Lezione 3
   | Mock Up  | To do |
