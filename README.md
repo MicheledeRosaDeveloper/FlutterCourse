@@ -21,8 +21,19 @@
   * Ereditarieta' multipla (Mixin)
   #### Esercizi Dart
 
-## Lezione 2
+## Lezione 2 - 3
   ### Widget
   Leggi documentazione di Flutter -> [Introduzione Widget](https://docs.flutter.dev/development/ui/widgets-intro)
-  #### Esercizi Dart
+  #### Esercizi 
+  #### Lezione 2
 
+  | Mock Up  | To do |
+  | ------------- | ------------- |
+  | <img src="blob/Esempio_lezione3.png" width="200" > |     <ul><li>Una AppBar con un’iconda utente (non funzionante)<li>Corpo della pagina con l’elenco delle sedi<li>Inserire il logo di SI nel logo<li>Al click sul pulsante di un elemento mostreremo il nome della sede selezionata in un contenitore posizionato in cima alla lista</ul> |
+
+  #### Lezione 3
+  | Mock Up  | To do |
+  | ------------- | ------------- |
+  | <img src="blob/Esempio_lezione3.png" width="200" > |     <ul><li>Creare un tema globale per l’app;<li>Utilizzare ListView e ListTile;<li>Inserire il logo di SI nel logo<li>Creare un’area in cima che visualizzi la sede selezionata, inserire bordi arrotondati nella parte inferiore;<li>Ogni elemento avrà un’immagine presa dal web, inserirla come sfondo nella parte superiore;</ul> |
+ 
+  
