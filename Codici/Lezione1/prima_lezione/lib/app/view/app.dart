@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:prima_lezione/app/theme/theme.dart';
-import 'package:prima_lezione/branches/view/branches_page.dart';
+import 'package:prima_lezione/branches/view/branch_overwiev/branches_page.dart';
 
 class AppView extends StatelessWidget {
   const AppView({
     Key? key,
-  })  : super(key: key);
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: theme,
       home: const BranchesPage(),
     );
