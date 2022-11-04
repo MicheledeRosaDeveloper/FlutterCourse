@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prima_lezione/branches/models/branch.dart';
+import 'package:prima_lezione/branches/domain/models/branch.dart';
 import 'package:prima_lezione/branches/widget/branch_list_item.dart';
 import 'package:prima_lezione/branches/widget/selected_branch_card.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prima_lezione/branches/models/branch.dart';
+import 'package:prima_lezione/branches/domain/models/branch.dart';
 
 class BranchListItem extends StatelessWidget{
   final Branch branch;
