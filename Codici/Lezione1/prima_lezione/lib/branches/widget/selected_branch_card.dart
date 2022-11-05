@@ -10,6 +10,7 @@ class SelectedBranchCard extends StatelessWidget {
     required this.branchImage,
   }) : super(key: key);
 
+
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
