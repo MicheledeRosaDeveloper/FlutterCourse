@@ -5,6 +5,7 @@ import 'package:prima_lezione/branches/view/branch_overwiev/braches_overview.dar
 class BranchesPage extends StatelessWidget {
   const BranchesPage({super.key});
 
+//landscape
   @override
   Widget build(BuildContext context) {
     return const SafeArea(
